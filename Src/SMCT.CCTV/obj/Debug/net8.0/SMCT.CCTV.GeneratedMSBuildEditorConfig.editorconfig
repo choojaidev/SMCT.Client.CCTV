@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SMCT.CCTV
+build_property.RootNamespace = SMCT.CCTV
+build_property.ProjectDir = C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V8\Applications\Src\SMCT.CCTV\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V8\Applications\Src\SMCT.CCTV
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/CCTVMap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0NUVk1hcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/CCTVMap/IndexMap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0NUVk1hcFxJbmRleE1hcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/CCTV/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0NUVlxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/CCTV/IndexMap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0NUVlxJbmRleE1hcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/CCTV/Index_bak.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0NUVlxJbmRleF9iYWsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/Home/CallApi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWxsQXBpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/Home/Secure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWN1cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/Shared/additionalMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkZGl0aW9uYWxNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/Shared/AppLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFwcExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/Shared/cctvMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGNjdHZNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/Shared/serviceMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHNlcnZpY2VNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/Shared/smartCityPoster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHNtYXJ0Q2l0eVBvc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/Shared/_layout1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9sYXlvdXQxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/Shared/_LayoutMobile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRNb2JpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/UnderConst/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5kZXJDb25zdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V8/Applications/Src/SMCT.CCTV/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

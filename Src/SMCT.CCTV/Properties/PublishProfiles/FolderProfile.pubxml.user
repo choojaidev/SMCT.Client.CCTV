@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\05 Testing\publish</_PublishTargetUrl>
+    <History>True|2024-05-04T07:13:27.3869987Z;True|2024-05-04T13:25:33.8968853+07:00;True|2024-05-04T13:13:43.2323129+07:00;True|2024-05-04T11:10:16.8159640+07:00;True|2024-05-04T11:08:55.5180552+07:00;True|2024-04-27T12:17:51.0355882+07:00;True|2024-04-12T21:27:26.3116117+07:00;True|2024-04-12T21:17:37.6212406+07:00;True|2024-04-12T09:30:48.1338095+07:00;True|2024-04-12T09:23:27.8519958+07:00;True|2024-04-09T20:37:09.9949006+07:00;True|2024-04-09T20:33:23.1509158+07:00;True|2024-03-29T19:06:43.9184804+07:00;True|2024-03-29T19:05:31.4927632+07:00;True|2024-03-29T18:56:20.6252548+07:00;True|2024-03-29T18:53:33.9485780+07:00;True|2024-03-17T16:39:50.2321066+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

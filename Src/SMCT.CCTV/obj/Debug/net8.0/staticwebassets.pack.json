@@ -1,0 +1,669 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\assets\\css\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\assets\\img\\cd-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\cd-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\assets\\js\\swipe-content.js",
+      "PackagePath": "staticwebassets\\assets\\js\\swipe-content.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\assets\\js\\util.js",
+      "PackagePath": "staticwebassets\\assets\\js\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\Layout1\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Layout1\\Style.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\MyCV\\animate.css",
+      "PackagePath": "staticwebassets\\css\\MyCV\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\MyCV\\css",
+      "PackagePath": "staticwebassets\\css\\MyCV"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\MyCV\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\MyCV\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\MyCV\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\MyCV\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\MyCV\\lmpixels-demo-panel.css",
+      "PackagePath": "staticwebassets\\css\\MyCV\\lmpixels-demo-panel.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\MyCV\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\MyCV\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\MyCV\\main-red.css",
+      "PackagePath": "staticwebassets\\css\\MyCV\\main-red.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\MyCV\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\MyCV\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\MyCV\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\MyCV\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\MyCV\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\css\\MyCV\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\MyCV\\transition-animations.css",
+      "PackagePath": "staticwebassets\\css\\MyCV\\transition-animations.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\backgroundprj\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\backgroundprj\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\cctvMenuItem.css",
+      "PackagePath": "staticwebassets\\css\\cctvMenuItem.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\lotto\\lottoItem.css",
+      "PackagePath": "staticwebassets\\css\\lotto\\lottoItem.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\menu.css",
+      "PackagePath": "staticwebassets\\css\\menu.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\mobile\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\mobile\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\mobile\\css.css",
+      "PackagePath": "staticwebassets\\css\\mobile\\css.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\mobile\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\mobile\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\mobile\\ionicons.css",
+      "PackagePath": "staticwebassets\\css\\mobile\\ionicons.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\mobile\\jquery.mCustomScrollbar.css",
+      "PackagePath": "staticwebassets\\css\\mobile\\jquery.mCustomScrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\mobile\\morris.css",
+      "PackagePath": "staticwebassets\\css\\mobile\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\mobile\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\mobile\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\mobile\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\css\\mobile\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\mobile\\style.css",
+      "PackagePath": "staticwebassets\\css\\mobile\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\mobile\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\css\\mobile\\weather-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\pt1\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\pt1\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\ptth\\Style.css",
+      "PackagePath": "staticwebassets\\css\\ptth\\Style.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\ptth\\StyleNav.css",
+      "PackagePath": "staticwebassets\\css\\ptth\\StyleNav.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\serviceMenu.css",
+      "PackagePath": "staticwebassets\\css\\serviceMenu.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\serviceMenuAdditional.css",
+      "PackagePath": "staticwebassets\\css\\serviceMenuAdditional.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\serviceMenuInline.css",
+      "PackagePath": "staticwebassets\\css\\serviceMenuInline.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\serviceMenuItem.css",
+      "PackagePath": "staticwebassets\\css\\serviceMenuItem.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\tinnySlider.css",
+      "PackagePath": "staticwebassets\\css\\tinnySlider.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\css\\underconst.css",
+      "PackagePath": "staticwebassets\\css\\underconst.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\CV\\advetising_icon.png",
+      "PackagePath": "staticwebassets\\images\\CV\\advetising_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\CV\\client_1.png",
+      "PackagePath": "staticwebassets\\images\\CV\\client_1.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\CV\\client_2.png",
+      "PackagePath": "staticwebassets\\images\\CV\\client_2.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\CV\\client_3.png",
+      "PackagePath": "staticwebassets\\images\\CV\\client_3.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\CV\\client_4.png",
+      "PackagePath": "staticwebassets\\images\\CV\\client_4.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\CV\\client_5.png",
+      "PackagePath": "staticwebassets\\images\\CV\\client_5.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\CV\\client_6.png",
+      "PackagePath": "staticwebassets\\images\\CV\\client_6.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\CV\\creativity_icon.png",
+      "PackagePath": "staticwebassets\\images\\CV\\creativity_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\CV\\photo.png",
+      "PackagePath": "staticwebassets\\images\\CV\\photo.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\CV\\photography_icon.png",
+      "PackagePath": "staticwebassets\\images\\CV\\photography_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\CV\\qr\\qr1.png",
+      "PackagePath": "staticwebassets\\images\\CV\\qr\\qr1.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\CV\\web_design_icon.png",
+      "PackagePath": "staticwebassets\\images\\CV\\web_design_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\Portal\\surat.png",
+      "PackagePath": "staticwebassets\\images\\Portal\\surat.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\icosmt\\eco.png",
+      "PackagePath": "staticwebassets\\images\\icosmt\\eco.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\icosmt\\energy.png",
+      "PackagePath": "staticwebassets\\images\\icosmt\\energy.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\icosmt\\env.png",
+      "PackagePath": "staticwebassets\\images\\icosmt\\env.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\icosmt\\gov.png",
+      "PackagePath": "staticwebassets\\images\\icosmt\\gov.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\icosmt\\living.png",
+      "PackagePath": "staticwebassets\\images\\icosmt\\living.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\icosmt\\mobi.png",
+      "PackagePath": "staticwebassets\\images\\icosmt\\mobi.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\icosmt\\peo.png",
+      "PackagePath": "staticwebassets\\images\\icosmt\\peo.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\icosmt\\svg\\eco.svg",
+      "PackagePath": "staticwebassets\\images\\icosmt\\svg\\eco.svg"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\peoples\\boy.png",
+      "PackagePath": "staticwebassets\\images\\peoples\\boy.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\peoples\\boy1.png",
+      "PackagePath": "staticwebassets\\images\\peoples\\boy1.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\peoples\\busman.png",
+      "PackagePath": "staticwebassets\\images\\peoples\\busman.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\peoples\\dad.png",
+      "PackagePath": "staticwebassets\\images\\peoples\\dad.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\peoples\\family.png",
+      "PackagePath": "staticwebassets\\images\\peoples\\family.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\peoples\\girl1.png",
+      "PackagePath": "staticwebassets\\images\\peoples\\girl1.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\peoples\\grandFather.png",
+      "PackagePath": "staticwebassets\\images\\peoples\\grandFather.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\peoples\\grandMother.png",
+      "PackagePath": "staticwebassets\\images\\peoples\\grandMother.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\peoples\\mom.png",
+      "PackagePath": "staticwebassets\\images\\peoples\\mom.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\Smart city 7 smart.jpg",
+      "PackagePath": "staticwebassets\\images\\smartcity\\Smart city 7 smart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\alarm.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\alarm.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\cctv-camera.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\cctv-camera.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\cctvoff.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\cctvoff.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\cctvon.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\cctvon.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\citizen.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\citizen.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\economy.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\economy.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\economy2.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\economy2.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\environment.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\environment.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\government.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\government.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\government2.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\government2.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\living.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\living.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\living2.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\living2.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\living3.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\living3.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\lotto1.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\lotto1.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\lotto2.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\lotto2.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\miniCCTV.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\miniCCTV.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\mobility.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\mobility.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\money.jpg",
+      "PackagePath": "staticwebassets\\images\\smartcity\\money.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\money.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\money.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\money1.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\money1.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\newspaper.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\newspaper.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\smartenergy.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\smartenergy.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\smartenergy2.png",
+      "PackagePath": "staticwebassets\\images\\smartcity\\smartenergy2.png"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\smartcity\\smctlogo.jpg",
+      "PackagePath": "staticwebassets\\images\\smartcity\\smctlogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\tmax.svg",
+      "PackagePath": "staticwebassets\\images\\tmax.svg"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\images\\tmin.svg",
+      "PackagePath": "staticwebassets\\images\\tmin.svg"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\MyCv\\Impixels-demo-panel.js",
+      "PackagePath": "staticwebassets\\js\\MyCv\\Impixels-demo-panel.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\MyCv\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\MyCv\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\MyCv\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\MyCv\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\MyCv\\jquery.hoverdir.js",
+      "PackagePath": "staticwebassets\\js\\MyCv\\jquery.hoverdir.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\MyCv\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\MyCv\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\MyCv\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\MyCv\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\MyCv\\jquery.shuffle.min.js",
+      "PackagePath": "staticwebassets\\js\\MyCv\\jquery.shuffle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\MyCv\\main.js",
+      "PackagePath": "staticwebassets\\js\\MyCv\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\MyCv\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\MyCv\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\MyCv\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\MyCv\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\MyCv\\pages-switcher.js",
+      "PackagePath": "staticwebassets\\js\\MyCv\\pages-switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\MyCv\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\MyCv\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\MyCv\\validator.js",
+      "PackagePath": "staticwebassets\\js\\MyCv\\validator.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\cctvButton.js",
+      "PackagePath": "staticwebassets\\js\\cctvButton.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\mobile\\Chart.min.js",
+      "PackagePath": "staticwebassets\\js\\mobile\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\mobile\\analytics.js",
+      "PackagePath": "staticwebassets\\js\\mobile\\analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\mobile\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\mobile\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\mobile\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\js\\mobile\\chartjs-init.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\mobile\\custom.js",
+      "PackagePath": "staticwebassets\\js\\mobile\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\mobile\\jquery.dcjqaccordion.2.7.js",
+      "PackagePath": "staticwebassets\\js\\mobile\\jquery.dcjqaccordion.2.7.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\mobile\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\mobile\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\mobile\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\mobile\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\mobile\\morris-init.js",
+      "PackagePath": "staticwebassets\\js\\mobile\\morris-init.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\mobile\\morris.js",
+      "PackagePath": "staticwebassets\\js\\mobile\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\mobile\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\mobile\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\mobile\\raphael-min.js",
+      "PackagePath": "staticwebassets\\js\\mobile\\raphael-min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V8\\Applications\\Src\\SMCT.CCTV\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SMCT.CCTV.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SMCT.CCTV.props",
+      "PackagePath": "build\\SMCT.CCTV.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SMCT.CCTV.props",
+      "PackagePath": "buildMultiTargeting\\SMCT.CCTV.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SMCT.CCTV.props",
+      "PackagePath": "buildTransitive\\SMCT.CCTV.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

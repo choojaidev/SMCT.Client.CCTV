@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V4\\SMCTY-SURATT-MVCVersion\\SMCTWebTemplate-weatherforecast\\SMCTWebTemplate.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V4\\SMCTY-SURATT-MVCVersion\\Libs\\Constants\\Constants.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V4\\SMCTY-SURATT-MVCVersion\\Libs\\Constants\\Constants.csproj",
+        "projectName": "Constants",
+        "projectPath": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V4\\SMCTY-SURATT-MVCVersion\\Libs\\Constants\\Constants.csproj",
+        "packagesPath": "C:\\Users\\boonchooc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V4\\SMCTY-SURATT-MVCVersion\\Libs\\Constants\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\boonchooc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V4\\SMCTY-SURATT-MVCVersion\\SMCTWebTemplate-weatherforecast\\SMCTWebTemplate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V4\\SMCTY-SURATT-MVCVersion\\SMCTWebTemplate-weatherforecast\\SMCTWebTemplate.csproj",
+        "projectName": "SMCTWebTemplate",
+        "projectPath": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V4\\SMCTY-SURATT-MVCVersion\\SMCTWebTemplate-weatherforecast\\SMCTWebTemplate.csproj",
+        "packagesPath": "C:\\Users\\boonchooc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V4\\SMCTY-SURATT-MVCVersion\\SMCTWebTemplate-weatherforecast\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\boonchooc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V4\\SMCTY-SURATT-MVCVersion\\Libs\\Constants\\Constants.csproj": {
+                "projectPath": "C:\\Users\\boonchooc\\Data\\99 BOONCHOO\\00 Job\\09 Smart City Surat\\03 Develop\\FrontEnd\\V4\\SMCTY-SURATT-MVCVersion\\Libs\\Constants\\Constants.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1103"
+          ],
+          "warnAsError": [
+            "NU1103",
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,195 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SMCTPortal
+build_property.RootNamespace = SMCTPortal
+build_property.ProjectDir = C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/BackgroundProject/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja2dyb3VuZFByb2plY3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/CCTVMap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0NUVk1hcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/CCTVMap/IndexMap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0NUVk1hcFxJbmRleE1hcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/CCTV/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0NUVlxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/CCTV/IndexMap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0NUVlxJbmRleE1hcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/CCTV/Index_bak.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0NUVlxJbmRleF9iYWsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/CitizenInfo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aXplbkluZm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/CitizenInfo/IndexMobi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aXplbkluZm9cSW5kZXhNb2JpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Home/CallApi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWxsQXBpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Home/Index_bak.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleF9iYWsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Home/Index_SMCT.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleF9TTUNULmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Home/Secure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWN1cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Lottery/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG90dGVyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/News/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Portal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Portal/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFsXEluZGV4MS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Portal/IndexMB.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFsXEluZGV4TUIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Portal/IndexMBGrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFsXEluZGV4TUJHcmlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Portal/IndexPT.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFsXEluZGV4UFQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Portal/IndexPTTH.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFsXEluZGV4UFRUSC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Portal/IndexSMC.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFsXEluZGV4U01DLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Portal/IndexSurat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFsXEluZGV4U3VyYXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Portal/Index_SM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFsXEluZGV4X1NNLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Shared/additionalMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkZGl0aW9uYWxNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Shared/AppLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFwcExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Shared/cctvMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGNjdHZNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Shared/serviceMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHNlcnZpY2VNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Shared/smartCityPoster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHNtYXJ0Q2l0eVBvc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Shared/_layout1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9sYXlvdXQxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Shared/_LayoutMobile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRNb2JpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/SmartCitizen/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU21hcnRDaXRpemVuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/SOS/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU09TXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/UnAuthorize/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5BdXRob3JpemVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/UnderConst/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5kZXJDb25zdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boonchooc/Data/99 BOONCHOO/00 Job/09 Smart City Surat/03 Develop/FrontEnd/V4/SMCTY-SURATT-MVCVersion/SMCTWebTemplate-weatherforecast/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

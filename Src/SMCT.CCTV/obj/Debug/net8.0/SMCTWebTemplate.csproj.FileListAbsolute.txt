@@ -1,0 +1,121 @@
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\SMCTWebTemplate.staticwebassets.runtime.json
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\SMCTWebTemplate.exe
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\SMCTWebTemplate.deps.json
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\SMCTWebTemplate.runtimeconfig.json
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\SMCTWebTemplate.dll
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\SMCTWebTemplate.pdb
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\IdentityModel.dll
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\Constants.dll
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\Constants.pdb
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\SMCTWebTemplate.csproj.AssemblyReference.cache
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\SMCTWebTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\SMCTWebTemplate.AssemblyInfoInputs.cache
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\SMCTWebTemplate.AssemblyInfo.cs
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\SMCTWebTemplate.csproj.CoreCompileInputs.cache
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\SMCTWebTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\SMCTWebTemplate.RazorAssemblyInfo.cache
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\SMCTWebTemplate.RazorAssemblyInfo.cs
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\SMCTWebTemplate.sourcelink.json
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\staticwebassets.build.json
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\staticwebassets.development.json
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\staticwebassets\msbuild.SMCTWebTemplate.Microsoft.AspNetCore.StaticWebAssets.props
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\staticwebassets\msbuild.build.SMCTWebTemplate.props
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SMCTWebTemplate.props
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SMCTWebTemplate.props
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\staticwebassets.pack.json
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\scopedcss\bundle\SMCTWebTemplate.styles.css
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\SMCTWebTemplate.csproj.CopyComplete
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\SMCTWebTemplate.dll
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\refint\SMCTWebTemplate.dll
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\SMCTWebTemplate.pdb
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\SMCTWebTemplate.genruntimeconfig.cache
+C:\WorkSpace\SMCT\SMCTWebTemplate\obj\Debug\net8.0\ref\SMCTWebTemplate.dll
+C:\WorkSpace\SMCT\SMCTWebTemplate\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\SMCTWebTemplate.staticwebassets.runtime.json
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\SMCTWebTemplate.exe
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\SMCTWebTemplate.deps.json
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\SMCTWebTemplate.runtimeconfig.json
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\SMCTWebTemplate.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\SMCTWebTemplate.pdb
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Constants.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Constants.pdb
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.csproj.AssemblyReference.cache
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.AssemblyInfoInputs.cache
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.AssemblyInfo.cs
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.csproj.CoreCompileInputs.cache
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.RazorAssemblyInfo.cache
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.RazorAssemblyInfo.cs
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\staticwebassets\msbuild.SMCTWebTemplate.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\staticwebassets\msbuild.build.SMCTWebTemplate.props
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SMCTWebTemplate.props
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SMCTWebTemplate.props
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\scopedcss\bundle\SMCTWebTemplate.styles.css
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.csproj.CopyComplete
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\refint\SMCTWebTemplate.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.pdb
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.genruntimeconfig.cache
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\00 Source\SMCTWebTemplate-weatherforecast 3\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\ref\SMCTWebTemplate.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\SMCTWebTemplate.staticwebassets.runtime.json
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\SMCTWebTemplate.exe
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\SMCTWebTemplate.deps.json
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\SMCTWebTemplate.runtimeconfig.json
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\SMCTWebTemplate.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\SMCTWebTemplate.pdb
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Constants.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\bin\Debug\net8.0\Constants.pdb
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.csproj.AssemblyReference.cache
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.AssemblyInfoInputs.cache
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.AssemblyInfo.cs
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.csproj.CoreCompileInputs.cache
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.RazorAssemblyInfo.cache
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.RazorAssemblyInfo.cs
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\staticwebassets\msbuild.SMCTWebTemplate.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\staticwebassets\msbuild.build.SMCTWebTemplate.props
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SMCTWebTemplate.props
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SMCTWebTemplate.props
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\scopedcss\bundle\SMCTWebTemplate.styles.css
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.csproj.CopyComplete
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\refint\SMCTWebTemplate.dll
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.pdb
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\SMCTWebTemplate.genruntimeconfig.cache
+C:\Users\boonchooc\Data\99 BOONCHOO\00 Job\09 Smart City Surat\03 Develop\FrontEnd\V4\SMCTY-SURATT-MVCVersion\SMCTWebTemplate-weatherforecast\obj\Debug\net8.0\ref\SMCTWebTemplate.dll
